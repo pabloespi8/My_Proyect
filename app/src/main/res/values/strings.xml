@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My_Proyect</string>
+    <string name="prefs_file"> pablo.KEY</string>
+</resources>
